@@ -1,0 +1,8 @@
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\bin\Debug\FiltersMDXCubeNortwind.dll
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\bin\Debug\FiltersMDXCubeNortwind.pdb
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Debug\FiltersMDXCubeNortwind.csproj.CoreCompileInputs.cache
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Debug\FiltersMDXCubeNortwind.csproj.CopyComplete
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Debug\FiltersMDXCubeNortwind.dll
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Debug\FiltersMDXCubeNortwind.pdb
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Debug\FiltersMDXCubeNortwind.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Release\LibMdx.csprojAssemblyReference.cache
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Release\LibMdx.csproj.CoreCompileInputs.cache
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\bin\Release\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Release\LibMdx.csproj.CopyComplete
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\bin\Release\LibMdx.dll
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\bin\Release\LibMdx.pdb
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Release\LibMdx.dll
+C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\Parcial2\FiltersMDXCubeNortwind\obj\Release\LibMdx.pdb
